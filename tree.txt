@@ -1,0 +1,42 @@
+.
+├── db.sqlite3
+├── manage.py
+├── myproject
+│   ├── asgi.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-39.pyc
+│   │   ├── settings.cpython-39.pyc
+│   │   ├── urls.cpython-39.pyc
+│   │   └── wsgi.cpython-39.pyc
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── scraper
+│   ├── admin.py
+│   ├── apps.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-39.pyc
+│   ├── models.py
+│   ├── __pycache__
+│   │   ├── admin.cpython-39.pyc
+│   │   ├── apps.cpython-39.pyc
+│   │   ├── __init__.cpython-39.pyc
+│   │   ├── models.cpython-39.pyc
+│   │   ├── scraper_logic.cpython-39.pyc
+│   │   ├── urls.cpython-39.pyc
+│   │   └── views.cpython-39.pyc
+│   ├── scraper_logic.py
+│   ├── templates
+│   │   ├── results.html
+│   │   ├── scraper
+│   │   └── search_form.html
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+└── tree.txt
+
+8 directories, 31 files
